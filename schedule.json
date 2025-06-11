@@ -1,0 +1,39 @@
+{
+  "2025-06-09": [
+    {
+      "activity": "勉強",
+      "time_range": "12:00-14:00",
+      "duration": 2.0,
+      "start": "12:00",
+      "end": "14:00"
+    },
+    {
+      "activity": "サークル",
+      "time_range": "19:00-20:00",
+      "duration": 1.0,
+      "start": "19:00",
+      "end": "20:00"
+    },
+    {
+      "activity": "バイト",
+      "time_range": "15:00-18:00",
+      "duration": 3.0,
+      "start": "15:00",
+      "end": "18:00"
+    },
+    {
+      "activity": "課題",
+      "start": "09:00",
+      "end": "10:00",
+      "duration": 1.0
+    }
+  ],
+  "2025-06-11": [
+    {
+      "activity": "学校",
+      "start": "10:40",
+      "end": "16:10",
+      "duration": 5.5
+    }
+  ]
+}
